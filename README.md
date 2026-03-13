@@ -2,6 +2,9 @@
 **Project Overview**
 This project is developed for a Hackathon to design an AI-powered Campus Intelligence System that helps institutions identify student risks early and manage campus resources efficiently.
 The system uses predictive analytics, behavioral monitoring, and real-time data integration to detect students who may be facing academic stress or other challenges. It also helps optimize hostel and campus facility utilization.
+
+
+
 **Problem Statement**
 Many educational institutions face challenges such as:
 Increasing student dropout rates due to academic stress and social isolation.
