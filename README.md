@@ -8,10 +8,15 @@ The system uses predictive analytics, behavioral monitoring, and real-time data 
 
 ## Problem Statement
 1.Many educational institutions face challenges such as:
+
 2.Increasing student dropout rates due to academic stress and social isolation.
+
 3.Difficulty in identifying early warning signs of student distress.
+
 4.Inefficient management of hostel rooms and campus facilities.
+
 5.Lack of integration between different institutional systems.
+
 6.This project aims to solve these issues using Artificial Intelligence and Data Analytics.
 
 
