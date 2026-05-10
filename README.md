@@ -22,17 +22,25 @@ The system uses predictive analytics, behavioral monitoring, and real-time data 
 
 ## Objectives
 1.Identify students who are at risk of academic dropout or mental stress.
+
 2.Provide early alerts and recommendations for timely intervention.
+
 3.Monitor academic, behavioral, and social indicators.
+
 4.Improve hostel room allocation and campus resource utilization.
+
 5.Integrate different campus systems into a single intelligent platform.
 
 
 ## Key Features
 1.Student risk prediction using AI models
+
 2.Early warning alert system
+
 3.Behavioral and academic data analysis
+
 4.Smart hostel and resource allocation
+
 5.Real-time campus monitoring dashboard
 
 
@@ -47,8 +55,11 @@ The system uses predictive analytics, behavioral monitoring, and real-time data 
   
 ## Expected Outcomes
 1.Early identification of students who need support.
+
 2.Reduced dropout rates.
+
 3.Better student well-being.
+
 4.Efficient use of campus resources.
 
 ## Future Enhancements
