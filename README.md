@@ -1,20 +1,21 @@
-**Ai-Based student mental health and academic monitoring system**
-**Project Overview**
+# Ai-Based student mental health and academic monitoring system
+
+## Project Overview
 This project is developed for a Hackathon to design an AI-powered Campus Intelligence System that helps institutions identify student risks early and manage campus resources efficiently.
 The system uses predictive analytics, behavioral monitoring, and real-time data integration to detect students who may be facing academic stress or other challenges. It also helps optimize hostel and campus facility utilization.
 
 
 
-**Problem Statement**
-Many educational institutions face challenges such as:
-Increasing student dropout rates due to academic stress and social isolation.
-Difficulty in identifying early warning signs of student distress.
-Inefficient management of hostel rooms and campus facilities.
-Lack of integration between different institutional systems.
-This project aims to solve these issues using Artificial Intelligence and Data Analytics.
+## Problem Statement
+1.Many educational institutions face challenges such as:
+2.Increasing student dropout rates due to academic stress and social isolation.
+3.Difficulty in identifying early warning signs of student distress.
+4.Inefficient management of hostel rooms and campus facilities.
+5.Lack of integration between different institutional systems.
+6.This project aims to solve these issues using Artificial Intelligence and Data Analytics.
 
 
-**Objectives**
+## Objectives
 1.Identify students who are at risk of academic dropout or mental stress.
 2.Provide early alerts and recommendations for timely intervention.
 3.Monitor academic, behavioral, and social indicators.
@@ -22,7 +23,7 @@ This project aims to solve these issues using Artificial Intelligence and Data A
 5.Integrate different campus systems into a single intelligent platform.
 
 
-**Key Features**
+## Key Features
 1.Student risk prediction using AI models
 2.Early warning alert system
 3.Behavioral and academic data analysis
@@ -30,7 +31,7 @@ This project aims to solve these issues using Artificial Intelligence and Data A
 5.Real-time campus monitoring dashboard
 
 
-**Technologies Used**
+## Technologies Used
 * Python
 * Machine Learning
 * Data Analytics
@@ -39,13 +40,13 @@ This project aims to solve these issues using Artificial Intelligence and Data A
 
 
   
-**Expected Outcomes**
+## Expected Outcomes
 1.Early identification of students who need support.
 2.Reduced dropout rates.
 3.Better student well-being.
 4.Efficient use of campus resources.
 
-**Future Enhancements**
+## Future Enhancements
 Mobile application for students and administrators
 Integration with IoT devices for smart campus management
 Advanced AI models for better prediction accuracy
